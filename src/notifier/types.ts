@@ -1,4 +1,4 @@
-import { Destructible } from '@visue/core/base/DestructibleBase';
+import { Destructible } from '@visue/core/DestructibleBase';
 import { Identifiable, IdentifiableConfig } from '@visue/utils';
 import { SetOptions } from '../types';
 

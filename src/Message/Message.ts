@@ -1,4 +1,4 @@
-import DestructibleBase from '@visue/core/base/DestructibleBase';
+import DestructibleBase from '@visue/core/DestructibleBase';
 import { t } from '@visue/i18n';
 import asArray from '@visue/utils/array/asArray';
 import pushUnique from '@visue/utils/array/pushUnique';

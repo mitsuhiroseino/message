@@ -1,4 +1,4 @@
-import DestructibleBase from '@visue/core/base/DestructibleBase';
+import DestructibleBase from '@visue/core/DestructibleBase';
 import assignIdentifier from '@visue/utils/identifier/assignIdentifier';
 import { MESSAGE_LEVEL, MESSAGE_LEVEL_ORDER, MESSAGE_TYPE } from '../../constants';
 import { MessageLevel } from '../../types';
